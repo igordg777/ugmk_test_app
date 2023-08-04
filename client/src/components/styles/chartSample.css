@@ -1,0 +1,28 @@
+.chart-container{
+    width: 80%;
+    margin: 21px auto 0px;
+}
+
+.chart-select{
+    text-align: right;
+    width: 20em;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+
+.chart{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.f-a{
+    color: red;
+}
+
+.f-b{
+    color: blue;
+}
